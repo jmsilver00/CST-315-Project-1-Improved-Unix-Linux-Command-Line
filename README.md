@@ -6,7 +6,7 @@ gcc newcommandline.c
 
 ./a.out
 
-For batch
+For batch:
 
 emacs (or other text editor) batch1.sh
 
